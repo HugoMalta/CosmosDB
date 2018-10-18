@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CosmosDB.API", "CosmosDB.API\CosmosDB.API.csproj", "{0289FAC9-FB0E-49A1-81F7-60F597F88F7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CosmosDb.Model", "CosmosDb.Model\CosmosDb.Model.csproj", "{D1FD12A9-7799-4D65-B1CE-6888ABCC38C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CosmosDB.Repositorio", "CosmosDB.Repositorio\CosmosDB.Repositorio.csproj", "{20156AE6-F4AF-4319-BAA4-9BB0FDD1E42C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CosmosDB.Negocio", "CosmosDB.Negocio\CosmosDB.Negocio.csproj", "{C1F27EEE-7A41-4C54-A233-2FC7FFCCEFF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CosmosDB.Utils", "CosmosDB.Utils\CosmosDB.Utils.csproj", "{5BB661D2-B6EB-4029-A1F9-EC6B185DFB12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0289FAC9-FB0E-49A1-81F7-60F597F88F7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0289FAC9-FB0E-49A1-81F7-60F597F88F7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0289FAC9-FB0E-49A1-81F7-60F597F88F7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0289FAC9-FB0E-49A1-81F7-60F597F88F7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1FD12A9-7799-4D65-B1CE-6888ABCC38C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1FD12A9-7799-4D65-B1CE-6888ABCC38C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1FD12A9-7799-4D65-B1CE-6888ABCC38C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1FD12A9-7799-4D65-B1CE-6888ABCC38C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20156AE6-F4AF-4319-BAA4-9BB0FDD1E42C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20156AE6-F4AF-4319-BAA4-9BB0FDD1E42C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20156AE6-F4AF-4319-BAA4-9BB0FDD1E42C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20156AE6-F4AF-4319-BAA4-9BB0FDD1E42C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1F27EEE-7A41-4C54-A233-2FC7FFCCEFF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1F27EEE-7A41-4C54-A233-2FC7FFCCEFF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1F27EEE-7A41-4C54-A233-2FC7FFCCEFF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1F27EEE-7A41-4C54-A233-2FC7FFCCEFF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BB661D2-B6EB-4029-A1F9-EC6B185DFB12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BB661D2-B6EB-4029-A1F9-EC6B185DFB12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BB661D2-B6EB-4029-A1F9-EC6B185DFB12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BB661D2-B6EB-4029-A1F9-EC6B185DFB12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48130699-E545-43B3-A55D-05356ABF7FDD}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CosmosDb.Model\CosmosDb.Model.csproj" />
+    <ProjectReference Include="..\CosmosDB.Repositorio\CosmosDB.Repositorio.csproj" />
+  </ItemGroup>
+
+</Project>
