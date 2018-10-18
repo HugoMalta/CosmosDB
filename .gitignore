@@ -12,5 +12,6 @@
 /srv/CosmosDB.Repositorio/obj
 /srv/CosmosDB.Negocio/bin
 /srv/CosmosDB.Negocio/obj
-/srv/.vs/CosmosDB.API/v15/.suo
-/srv/.vs/CosmosDB.API/v15/Server/sqlite3
+/srv/.vs
+
+
